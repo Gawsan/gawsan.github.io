@@ -1,1 +1,0 @@
-# gawsan.github.io
