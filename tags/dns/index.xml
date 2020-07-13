@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gawsan Website</title>
-    <link>https://gawsan.com/post/</link>
-    <description>Recent content on Gawsan Website</description>
+    <title>DNS on Gawsan Website</title>
+    <link>https://gawsan.com/tags/dns/</link>
+    <description>Recent content in DNS on Gawsan Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gawsan.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gawsan.com/tags/dns/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,27 +20,6 @@
       <description>WHAT IS THE DNS SEVER?
 The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
 The Domain Name System delegates the responsibility of assigning domain names and mapping those names to Internet resources by designating authoritative name servers for each domain. Network administrators may delegate authority over sub-domains of their allocated name space to other name servers. This mechanism provides distributed and fault-tolerant service and was designed to avoid a single large central database.</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>https://gawsan.com/post/second-post/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gawsan.com/post/second-post/</guid>
-      <description>This is a second post, checking&amp;hellip;
-We are checking again!
-Second Post.</description>
-    </item>
-    
-    <item>
-      <title>Welcome Post</title>
-      <link>https://gawsan.com/post/welcome-post/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gawsan.com/post/welcome-post/</guid>
-      <description>This is a personal post, checking&amp;hellip;
-We are checking again!and finished</description>
     </item>
     
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Gawsan Website</title>
-    <link>https://gawsan.github.io/categories/personal/</link>
+    <link>https://gawsan.com/categories/personal/</link>
     <description>Recent content in Personal on Gawsan Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gawsan.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gawsan.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome Post</title>
-      <link>https://gawsan.github.io/post/welcome-post/</link>
+      <link>https://gawsan.com/post/welcome-post/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gawsan.github.io/post/welcome-post/</guid>
+      <guid>https://gawsan.com/post/welcome-post/</guid>
       <description>This is a personal post, checking&amp;hellip;
-We are checking again!</description>
+We are checking again!and finished</description>
     </item>
     
   </channel>

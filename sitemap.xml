@@ -3,67 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gawsan.github.io/page/</loc>
+    <loc>https://gawsan.com/page/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/post/</loc>
+    <loc>https://gawsan.com/post/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/page/about/</loc>
+    <loc>https://gawsan.com/page/about/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/categories/</loc>
+    <loc>https://gawsan.com/categories/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/</loc>
+    <loc>https://gawsan.com/tags/cname/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/tags/personal/</loc>
+    <loc>https://gawsan.com/tags/dns/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/categories/personal/</loc>
+    <loc>https://gawsan.com/categories/dns/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/tags/personal2/</loc>
+    <loc>https://gawsan.com/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/categories/personal2/</loc>
+    <loc>https://gawsan.com/post/introduction-to-dns/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/post/second-post/</loc>
+    <loc>https://gawsan.com/tags/personal/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/tags/</loc>
+    <loc>https://gawsan.com/categories/personal/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/post/welcome-post/</loc>
+    <loc>https://gawsan.com/tags/personal2/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.github.io/archives/</loc>
+    <loc>https://gawsan.com/categories/personal2/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gawsan.com/post/second-post/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gawsan.com/tags/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gawsan.com/post/welcome-post/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gawsan.com/archives/</loc>
   </url>
   
 </urlset>
