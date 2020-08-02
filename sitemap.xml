@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://gawsan.com/categories/</loc>
+    <loc>https://gawsan.com/tags/c/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gawsan.com/tags/cname/</loc>
+    <loc>https://gawsan.com/categories/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://gawsan.com/post/how-to-compile-and-run-code-under-c-programming/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gawsan.com/post/introduction-to-dns/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
@@ -58,17 +63,7 @@
   </url>
   
   <url>
-    <loc>https://gawsan.com/tags/personal2/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gawsan.com/categories/personal2/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gawsan.com/post/second-post/</loc>
+    <loc>https://gawsan.com/categories/programming/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
