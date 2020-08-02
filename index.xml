@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gawsan Website</title>
-    <link>https://gawsan.com/</link>
-    <description>Recent content on Gawsan Website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gawsan.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>about</title>
-      <link>https://gawsan.com/page/about/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gawsan.com/page/about/</guid>
-      <description>My name is Gawsan.</description>
-    </item>
-    
-    <item>
-      <title>How to compile and run code under C programming</title>
-      <link>https://gawsan.com/post/how-to-compile-and-run-code-under-c-programming/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gawsan.com/post/how-to-compile-and-run-code-under-c-programming/</guid>
-      <description>Go to the terminal
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gawsan Website</title><link>https://gawsan.com/</link><description>Recent content on Gawsan Website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gawsan.com/index.xml" rel="self" type="application/rss+xml"/><item><title>about</title><link>https://gawsan.com/page/about/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://gawsan.com/page/about/</guid><description>My name is Gawsan. I&amp;rsquo;m studying software engineering University of SLIIT</description></item><item><title>How to compile and run code under C programming</title><link>https://gawsan.com/post/how-to-compile-and-run-code-under-c-programming/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://gawsan.com/post/how-to-compile-and-run-code-under-c-programming/</guid><description>Go to the terminal
 Creat a folder for the task.
 Create the filename with extension code .c as follows
 vi file_name.c
@@ -34,29 +6,7 @@ Once the file is completed, then compile the file as follows
 gcc file_name.c -o compiled_file_name
 The compiled code will be accessible via compiled_file_name
 then run to programm by issuing the following command.
-./compiled_file_name</description>
-    </item>
-    
-    <item>
-      <title>Introduction to DNS</title>
-      <link>https://gawsan.com/post/introduction-to-dns/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gawsan.com/post/introduction-to-dns/</guid>
-      <description>WHAT IS THE DNS SEVER?
+./compiled_file_name</description></item><item><title>Introduction to DNS</title><link>https://gawsan.com/post/introduction-to-dns/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://gawsan.com/post/introduction-to-dns/</guid><description>WHAT IS THE DNS SEVER?
 The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
-The Domain Name System delegates the responsibility of assigning domain names and mapping those names to Internet resources by designating authoritative name servers for each domain. Network administrators may delegate authority over sub-domains of their allocated name space to other name servers. This mechanism provides distributed and fault-tolerant service and was designed to avoid a single large central database.</description>
-    </item>
-    
-    <item>
-      <title>Welcome Post</title>
-      <link>https://gawsan.com/post/welcome-post/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gawsan.com/post/welcome-post/</guid>
-      <description>This is a personal post, checking&amp;hellip;
-We are checking again!and finished</description>
-    </item>
-    
-  </channel>
-</rss>
+The Domain Name System delegates the responsibility of assigning domain names and mapping those names to Internet resources by designating authoritative name servers for each domain. Network administrators may delegate authority over sub-domains of their allocated name space to other name servers. This mechanism provides distributed and fault-tolerant service and was designed to avoid a single large central database.</description></item><item><title>Welcome Post</title><link>https://gawsan.com/post/welcome-post/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://gawsan.com/post/welcome-post/</guid><description>This is a personal post, checking&amp;hellip;
+We are checking again!and finished</description></item></channel></rss>
